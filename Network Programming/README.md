@@ -1,2 +1,2 @@
 # NETWORK PROGRAMMING PROJECTS
-## Code written for CS228, Network Programming.
+## A collection of projects that I did for my CS228, Network Programming course.
