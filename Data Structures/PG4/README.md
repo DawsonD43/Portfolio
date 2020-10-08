@@ -1,2 +1,2 @@
 # LIBRARY DATABASE
-This program is a library database that is implemented using a binary tree.
+This program is a mock library database that is implemented using a binary tree.
